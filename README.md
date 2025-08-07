@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Jashwanth Kumar G</h1>
-<h3 align="center">🧠 AI/ML Researcher | 📊 Data Science Intern | 💻 Full Stack Developer | 🌱 Climate Tech Enthusiast</h3>   
-<h3 align="center">👨🏻‍🔬 Innovator in Sustainable Tech</h3>
+<h3 align="center">🧠 AI/ML Researcher | 📊 Data Science | 💻 Full Stack Developer | 👨🏻‍🔬 Tech Enthusiast</h3>   
+
 
 <p align="center">
   <a href="mailto:jashwanth.g666@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
